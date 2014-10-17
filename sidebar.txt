@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smf:home|Door43 (smf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smf|d43-smf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smf/archive/master.zip|d43-smf.zip]]
+
+**Recent Changes**
+{{changes>ns = smf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smf|Ethnologue data]]
+
